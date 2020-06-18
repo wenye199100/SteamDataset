@@ -5,7 +5,7 @@ The dataset in "Game Recommendation based on Dynamic Graph Convolutional Network
 
 ### Dataset case
 The file contain the reviews of app 535230.
-![Screenshot](https://raw.githubusercontent.com/Anonymous-code-repo/CGR/master/other/1.png)
+![Screenshot](https://raw.githubusercontent.com/wenye199100/SteamDataset/master/other/1.png)
 
 ### Full Dataset
 There is the [Full Dataset](https://mega.nz/#!AvhH3C4R!m8cOY5_AIey-0X2UYrYEUzKFA7-hCMfWSSV5D7g4zW8) link in mega.nz
